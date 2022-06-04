@@ -6712,6 +6712,9 @@ MonoBehaviour:
   turnSpeed: 0.1
   respawnTime: 3
   respawnInvulnerabilityTime: 3
+  rotationMomentum: 5
+  turnDirection: 0
+  angle: 0
 --- !u!1 &2075119309
 GameObject:
   m_ObjectHideFlags: 0
